@@ -1,3 +1,5 @@
+help([[
+  This module loads libraries required for building and running GFS UTILS
   on the NOAA RDHPC machine Gaea C5 using Intel-2023.1.0.
 ]])
 
